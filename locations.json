@@ -1,0 +1,29 @@
+[
+  {
+    "id":1,
+    "name":"Gachibowli Location",
+    "street_address":"123 Nanakramguda",
+    "city":"Hyderabad",
+    "state":"TG",
+    "zip":"201054",
+    "phone":"123-456-7890"
+  },
+  {
+    "id":2,
+    "name":"Uppal Location",
+    "street_address":"456 Habsiguda",
+    "city":"Hyderabad",
+    "state":"TG",
+    "zip":"325654",
+    "phone":"456-320-8965"
+  },
+  {
+    "id":3,
+    "name":"Financial Location",
+    "street_address":"789 Raghavendra",
+    "city":"Hyderabad",
+    "state":"TG",
+    "zip":"632784",
+    "phone":"753-256-6549"
+  }
+]

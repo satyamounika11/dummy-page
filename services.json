@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name":"Dine-out Restaurants!",
+    "description":"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+    "image": "48202457-pizza-flat-icon-logo-template-pizza-food-silhouette-pizza-piece-logo-pizza-slice-logo-pizza-menu-ill.jpg"
+  },
+   {
+    "id": 2,
+    "name":"Delivery Restaurants!",
+    "description":"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+    "image": "48202457-pizza-flat-icon-logo-template-pizza-food-silhouette-pizza-piece-logo-pizza-slice-logo-pizza-menu-ill.jpg"
+  },
+   {
+    "id": 3,
+    "name":"Newly Opened Restaurants!",
+    "description":"Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+    "image": "48202457-pizza-flat-icon-logo-template-pizza-food-silhouette-pizza-piece-logo-pizza-slice-logo-pizza-menu-ill.jpg"
+  }
+]
